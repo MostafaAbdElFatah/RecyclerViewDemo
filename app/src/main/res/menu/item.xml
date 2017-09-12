@@ -1,0 +1,11 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/item"
+        android:icon="@drawable/ic_span_1"
+        android:orderInCategory="100"
+        android:title="item"
+        app:showAsAction="always" />
+</menu>
